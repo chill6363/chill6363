@@ -1,7 +1,9 @@
-# Hello! 
+# Hello! :wave::smiley:
 My name is Charlie Hill and I am a computer engineering major at the University of Cincinnati.
 
 Here are some facts about me:
+- My hometown is Louisville, Kentucky
+- I have a ragdoll cat
 
 <!--
 
